@@ -271,6 +271,8 @@ namespace Client
 
         private void ResetGame()
         {
+             spectatorTxt.Visible = false;
+
             foreach (Button button in letterButtonsPanel.Controls)
             {
                 button.Enabled = true;
