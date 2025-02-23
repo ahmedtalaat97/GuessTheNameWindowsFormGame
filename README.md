@@ -48,15 +48,13 @@ Feel free to contribute by submitting pull requests or reporting issues.
 ## 📧 Contact
 For support, contact [atalaat635@gmail.com].
 
-<img src="https://github.com/user-attachments/assets/70e19b07-8a98-4635-83db-c43122f1cd3b" width="300" height="300"/>
+<img src="https://github.com/user-attachments/assets/70e19b07-8a98-4635-83db-c43122f1cd3b" width="500" height="500"/>
 
 
 
-<img src="https://github.com/user-attachments/assets/cbc698cf-56fd-4a1e-bbd2-05d6107d1d11" width="300" height="300"/>
+<img src="https://github.com/user-attachments/assets/cbc698cf-56fd-4a1e-bbd2-05d6107d1d11" width="500" height="500"/>
 
-<img src="https://github.com/user-attachments/assets/d396cd0c-b88f-4f40-b409-e43f5385dc25" width="300" height="300"/>
-</body>
-</html>
+<img src="https://github.com/user-attachments/assets/d396cd0c-b88f-4f40-b409-e43f5385dc25" width="500" height="500"/>
 
 
 
