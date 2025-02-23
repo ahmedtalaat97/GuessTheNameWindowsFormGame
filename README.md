@@ -17,7 +17,7 @@ A real-time multiplayer game where players take turns guessing letters to reveal
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/GuessTheName.git
+   git clone [https://github.com/your-repo/GuessTheName.git](https://github.com/ahmedtalaat97/GuessTheNameWindowsFormGame.git)
    ```
 2. Open the solution in Visual Studio.
 3. Run the **Server** first.
@@ -46,7 +46,7 @@ A real-time multiplayer game where players take turns guessing letters to reveal
 Feel free to contribute by submitting pull requests or reporting issues.
 
 ## 📧 Contact
-For support, contact [support@example.com](mailto:support@example.com).
+For support, contact [atalaat635@gmail.com].
 
 <img src="https://github.com/user-attachments/assets/70e19b07-8a98-4635-83db-c43122f1cd3b" width="300" height="300"/>
 
